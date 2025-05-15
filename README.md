@@ -105,12 +105,6 @@ Backend PHP dosyaları `get_logins.php` üzerinden dış API’den veri çeker, 
 
 ---
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
-
----
-
 ## İletişim
 
 Proje hakkında soru veya önerileriniz için:
